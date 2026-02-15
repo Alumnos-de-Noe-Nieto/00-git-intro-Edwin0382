@@ -50,7 +50,7 @@ git config --global user.name "Paula Gómez"
 git config --global user.email "paula.gomez@escuela.mx"
 ```
 
-Esto dice: "Cuando Paula haga commits, están firmados por ella" 
+Esto dice: "Cuando Paula haga commits, están firmados por ella"
 
 ✨ **Hazlo una sola vez y listo. Git nunca te lo volverá a pedir.**
 
@@ -373,15 +373,15 @@ git push                          # Subir tus cambios
 
 ---Checkpoint 10: Todo Dominado ✅
 
-- [ ] Entiendo qué es un commit
-- [ ] Puedo crear y ver un repositorio
-- [ ] Sé los 4 comandos esenciales
-- [ ] Puedo resolver problemas comunes
-- [ ] Completé el ejercicio práctico
+- [X] Entiendo qué es un commit
+- [X] Puedo crear y ver un repositorio
+- [X] Sé los 4 comandos esenciales
+- [X] Puedo resolver problemas comunes
+- [X] Completé el ejercicio práctico
 
 ---
 
-## 
+##
 
 ## 🎮 Ejercicio Práctico
 
@@ -443,58 +443,58 @@ Completa los siguientes checkpoints antes de continuar:
 
 ### Checkpoint 1: Verificación Inicial ✅
 
-- [ ] Instalé Git correctamente (visto en documento 01)
-- [ ] Ejecuté `git --version` y funcionó
-- [ ] Configuré mi nombre y email con `git config`
+- [X] Instalé Git correctamente (visto en documento 01)
+- [X] Ejecuté `git --version` y funcionó
+- [X] Configuré mi nombre y email con `git config`
 
 ### Checkpoint 2: Primer Repositorio ✅
 
-- [ ] Creé una carpeta llamada `MiProyectoGit`
-- [ ] Entré a esa carpeta con `cd MiProyectoGit`
-- [ ] Ejecuté `git init`
-- [ ] Verifiqué que existe la carpeta `.git`
+- [X] Creé una carpeta llamada `MiProyectoGit`
+- [X] Entré a esa carpeta con `cd MiProyectoGit`
+- [X] Ejecuté `git init`
+- [X] Verifiqué que existe la carpeta `.git`
 
 ### Checkpoint 3: Primer Commit Exitoso ✅
 
-- [ ] Creé un archivo `main.py` con contenido
-- [ ] Ejecuté `git add main.py`
-- [ ] Ejecuté `git commit -m "Crear archivo principal con hola mundo"`
-- [ ] Vi el mensaje de confirmación del commit
+- [X] Creé un archivo `main.py` con contenido
+- [X] Ejecuté `git add main.py`
+- [X] Ejecuté `git commit -m "Crear archivo principal con hola mundo"`
+- [X] Vi el mensaje de confirmación del commit
 
 ### Checkpoint 4: Commits Múltiples ✅
 
-- [ ] Ejecuté `git status` y entendí qué significa
-- [ ] Ejecuté `git add` en múltiples ocasiones
-- [ ] Hice al menos 2 commits con buenos mensajes
-- [ ] Ejecuté `git log --oneline` y vi mi historial
+- [X] Ejecuté `git status` y entendí qué significa
+- [X] Ejecuté `git add` en múltiples ocasiones
+- [X] Hice al menos 2 commits con buenos mensajes
+- [X] Ejecuté `git log --oneline` y vi mi historial
 
 ### Checkpoint 5: Conceptos de Equipo ✅
 
-- [ ] Entiendo qué es `git push`
-- [ ] Entiendo qué es `git pull`
-- [ ] Sé cuándo usar cada uno
-- [ ] Comprendo cómo Git sincroniza código entre personas
+- [X] Entiendo qué es `git push`
+- [X] Entiendo qué es `git pull`
+- [X] Sé cuándo usar cada uno
+- [X] Comprendo cómo Git sincroniza código entre personas
 
 ### Checkpoint 6: Windows-Específicas ✅
 
-- [ ] Entiendo cómo usar comillas en rutas con espacios
-- [ ] Sé que Windows es sensible a mayúsculas en Git
-- [ ] Configuré `core.autocrlf` si es necesario
-- [ ] Sé dónde buscar ayuda si algo falla
+- [X] Entiendo cómo usar comillas en rutas con espacios
+- [X] Sé que Windows es sensible a mayúsculas en Git
+- [X] Configuré `core.autocrlf` si es necesario
+- [X] Sé dónde buscar ayuda si algo falla
 
 ### Checkpoint 7: Problemas Comunes Resueltos ✅
 
-- [ ] Puedo resolver "git no reconoce el comando"
-- [ ] Sé qué hacer si tengo "Permission denied"
-- [ ] Entiendo "fatal: not a git repository"
-- [ ] Puedo arreglarlo si algo sale mal
+- [X] Puedo resolver "git no reconoce el comando"
+- [X] Sé qué hacer si tengo "Permission denied"
+- [X] Entiendo "fatal: not a git repository"
+- [X] Puedo arreglarlo si algo sale mal
 
 ### Checkpoint 8: Ejercicio Completado ✅
 
-- [ ] Completé el ejercicio práctico
-- [ ] Vi 2 commits en `git log --oneline`
-- [ ] Entiendo qué es un commit
-- [ ] Puedo crear y ver un repositorio
+- [X] Completé el ejercicio práctico
+- [X] Vi 2 commits en `git log --oneline`
+- [X] Entiendo qué es un commit
+- [X] Puedo crear y ver un repositorio
 
 ---
 
