@@ -201,17 +201,17 @@ sequenceDiagram
     participant tú as Tu Computadora
     participant github as GitHub (nube)
     participant compañero as Compañero
-    
+
     tú->>tú: editas archivo.py
     tú->>tú: git add, git commit
     tú->>github: git push
-    
+
     compañero->>github: git pull
     compañero->>compañero: ahora tiene tu código
-    
+
     compañero->>compañero: edita otro archivo
     compañero->>github: git push
-    
+
     tú->>github: git pull
     tú->>tú: ahora tienes su código
 ```
@@ -263,37 +263,37 @@ Eso es TODO lo que necesitas para colaborar en GitHub.
 ## ✅ Checkpoints de Aprendizaje: GitHub y Control de Versiones Remoto
 
 ### Checkpoint 1: Git vs GitHub
-- [ ] Entiendo que Git es local y GitHub es la nube
-- [ ] Puedo explicar por qué GitHub es necesario para equipos
-- [ ] Sé que GitHub almacena y sincroniza código
+- [X] Entiendo que Git es local y GitHub es la nube
+- [X] Puedo explicar por qué GitHub es necesario para equipos
+- [X] Sé que GitHub almacena y sincroniza código
 
 ### Checkpoint 2: El Comando Clone
-- [ ] Entiendo qué es clonar un repositorio
-- [ ] Sé que clone descarga el código COMPLETO con historial
-- [ ] Puedo usar: `git clone https://github.com/usuario/proyecto.git`
+- [X] Entiendo qué es clonar un repositorio
+- [X] Sé que clone descarga el código COMPLETO con historial
+- [X] Puedo usar: `git clone https://github.com/usuario/proyecto.git`
 
 ### Checkpoint 3: Push y Pull
-- [ ] Sé que `git push` sube cambios a GitHub
-- [ ] Sé que `git pull` descarga cambios de GitHub
-- [ ] Entiendo que debo `pull` antes de trabajar y `push` después
+- [X] Sé que `git push` sube cambios a GitHub
+- [X] Sé que `git pull` descarga cambios de GitHub
+- [X] Entiendo que debo `pull` antes de trabajar y `push` después
 
 ### Checkpoint 4: Protocolo de Equipo
-- [ ] Puedo seguir: `pull` → `work` → `push`
-- [ ] Entiendo por qué este orden evita conflictos
-- [ ] Sé que este flujo permite que 4 estudiantes trabajen en paralelo
+- [X] Puedo seguir: `pull` → `work` → `push`
+- [X] Entiendo por qué este orden evita conflictos
+- [X] Sé que este flujo permite que 4 estudiantes trabajen en paralelo
 
 ### Checkpoint 5: Conflictos y Seguridad
-- [ ] Sé qué es un conflicto (editar la misma línea)
-- [ ] Entiendo que se evita fácilmente (editar archivos diferentes)
-- [ ] Sé que puedo elegir repositorio público o privado
+- [X] Sé qué es un conflicto (editar la misma línea)
+- [X] Entiendo que se evita fácilmente (editar archivos diferentes)
+- [X] Sé que puedo elegir repositorio público o privado
 
 ## ✅ Checkpoint 6: GitHub Dominio Completo ✅
 
-- [ ] Puedo explicar los 3 conceptos clave de GitHub
-- [ ] Sé los 3 comandos nuevos de GitHub
-- [ ] Entiendo el flujo de colaboración
-- [ ] Sé cómo evitar conflictos
-- [ ] Estoy listo para mi entregable
+- [X] Puedo explicar los 3 conceptos clave de GitHub
+- [X] Sé los 3 comandos nuevos de GitHub
+- [X] Entiendo el flujo de colaboración
+- [X] Sé cómo evitar conflictos
+- [X] Estoy listo para mi entregable
 
 ---
 
@@ -320,7 +320,7 @@ Una vez que veas el mensaje de confirmacion, no olvides ejecutar `git push` para
 
 ## 🎯 Siguiente Paso
 
-¡Excelente! Completaste la lección de GitHub. 
+¡Excelente! Completaste la lección de GitHub.
 
 **Ahora pasarás a tu entregable final:** [Documento 07: Tu Entregable Final](07-ENTREGABLE-ALUMNO.md)
 
