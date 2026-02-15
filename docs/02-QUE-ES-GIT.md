@@ -167,7 +167,7 @@ Git puede ir hacia ATRÁS en tiempo: "Quiero el código de las 11:30 AM" → ✅
 - [ ] **Verificación:** Piensa en el problema real:
   - "¿Cómo colaborarían 4 compañeros sin Git?"
   - Escribe al menos 1 problema en tu mente (ej: sobrescribir archivos)
-- [ ] Si pensaste en al menos 1 → ✅ Marca este checkpoint
+- [X] Si pensaste en al menos 1 → ✅ Marca este checkpoint
 
 ### Checkpoint 2: Entiendes la Solución ✅
 
@@ -175,7 +175,7 @@ Git puede ir hacia ATRÁS en tiempo: "Quiero el código de las 11:30 AM" → ✅
 - [ ] **Verificación:** Responde sin mirar el documento:
   - "¿Git es un programa local o en la nube?"
   - **Respuesta correcta:** "Local (en tu computadora)"
-- [ ] Si respondiste correctamente → ✅ Marca este checkpoint
+- [X] Si respondiste correctamente → ✅ Marca este checkpoint
 
 ### Checkpoint 3: Los 3 Conceptos Cristal Claros ✅
 
@@ -184,7 +184,7 @@ Git puede ir hacia ATRÁS en tiempo: "Quiero el código de las 11:30 AM" → ✅
   - "Un repositorio es..." → `[tu carpeta + la carpeta .git]`
   - "Un commit es..." → `[un punto de guardado con cambios]`
   - "Una rama es..." → `[una línea de desarrollo]`
-- [ ] Si completaste correctamente las 3 → ✅ Marca este checkpoint
+- [X] Si completaste correctamente las 3 → ✅ Marca este checkpoint
 
 ---
 
@@ -208,6 +208,6 @@ git commit -m "Completo 02: Conceptos clave de Git"
 
 ## 🔗 Navegación
 
-← [Anterior: Instalación](./01-INSTALACION.md) 
+← [Anterior: Instalación](./01-INSTALACION.md)
 
 → [Siguiente: Por Qué Git Importa](./03-POR-QUE-GIT.md)
